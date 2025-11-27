@@ -1,1 +1,2 @@
-Heading_1
+Heading1
+Heading2
